@@ -24,16 +24,17 @@ This project is a simple private web browser built using PyQt5, a set of Python 
 
 1. **Clone the repository:**
     
-    git clone https://github.com/yourusername/private-browser-pyqt5.git
+    git clone https://github.com/PynaPavani/Private_Web_browser.git
+   
     cd private-browser-pyqt5
     
 
-2. **Install required dependencies:**
+3. **Install required dependencies:**
     
     pip install PyQt5
     
 
-3. **Run the browser:**
+4. **Run the browser:**
     
     python app.py
     
